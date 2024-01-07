@@ -1,1 +1,1 @@
-hello world
+Repo for the updated RCU website. Orginal project code @ ishakarim10.
